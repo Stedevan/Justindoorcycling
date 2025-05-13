@@ -13,12 +13,21 @@
 
 * { margin: 0; padding: 0; box-sizing: border-box;}
 
+header {
+     position: -webkit-sticky; /* For Safari */
+     position: sticky;
+     top: 0;
+     z-index: 999;
+     padding: 10px 20px;
+
+ }
+
 /*body element*/
 
 body { font-family: Georgia, 'Times New Roman', Times, serif;
 text-align: center; text-align: center;}
 
-.home-bg { background-image: url("Mallorca-Spain.png");
+.home-bg { background-image: url("peleton.png");
      background-repeat: no-repeat;
      background-size: cover;
      background-attachment: fixed;}
