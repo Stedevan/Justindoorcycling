@@ -112,7 +112,7 @@ header { height: 6.25em; width: auto; margin-top: 0.625em;}
 
           
    .container13 {
-     position: absolute;
+     position: relative;
      margin: 1em 1em 0em 1em;
      height: 4em;
      width: auto;
