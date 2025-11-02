@@ -310,6 +310,7 @@ margin-top: 1.25em;
      text-align: center;
      text-decoration: none;
      margin: 0.3125em  0.125em;
+     background-color: #55ACEE;
     
    }
 
@@ -318,24 +319,16 @@ margin-top: 1.25em;
       background-color: #000000;
  }
 
-   .fa-facebook {
-     background: #3B5998;
-     color: white;
-   }
+
 
    .fa-twitter {
-     background: #55ACEE;
-     color: white;
+     background:none
+
    }
 
-   .fa-linkedin {
-     background: #007bb5;
-     color: white;
-   }
+.fa-github {
+     background:none
 
-   .fa-reddit {
-     font-size:2em;color:#ffffff; 
-      background-color: #3B5998;
    }
 
    
