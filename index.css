@@ -358,7 +358,7 @@ margin-top: 1.25em;
 
 
 @media screen and ( max-width:56.25em ){
-     .box { display: none;}
+     .box { display:contents;}
 
      .container { margin: 4em 0em 0em 7.5em; }
 
